@@ -3,3 +3,9 @@
 .env.development
 .env.production
 .env.test
+.venv.local
+.venv.development 
+.venv.production
+.venv.test
+__pycache__/
+*.pyc
